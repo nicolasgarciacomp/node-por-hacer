@@ -19,7 +19,6 @@ const cargarDB = () => {
 }
 
 const crear = (descripcion) => {
-
 	cargarDB();
 
 	let porHacer = {
